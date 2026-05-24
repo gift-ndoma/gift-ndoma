@@ -1,16 +1,80 @@
-<h1 align="center">Hi 👋, I'm Gift Ndoma</h1>
-<h3 align="center">A software development student at BYU</h3>
+# Hi there, I'm Gift Ndoma 👋
 
-- 🌱 I’m currently learning **React, Docker**
+### Software Development Student | Frontend Web Developer | Lifelong Learner
 
-- 💬 Ask me about **JavaScript**
+Welcome to my GitHub profile! I'm currently studying Software Development at :contentReference[oaicite:0]{index=0} and building projects that help me grow as a developer and problem solver.
 
-- 📫 How to reach me **giftndoma87@gmail.com**
+I enjoy creating fun, responsive, and user-friendly web experiences while continuously improving my programming and design skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/200012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="200012" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+
+- 🎓 Software Development student at BYU-Idaho
+- 🌱 Currently learning JavaScript, Python, responsive web design, and software development principles
+- 💻 Interested in frontend development, UI/UX, and creative web projects
+- 🎯 My goal is to become a professional software developer and build solutions that make life easier
+- 📚 I enjoy learning about personal growth, confidence, and self-improvement
+- 🤝 Open to collaboration, networking, and learning from other developers
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="45" height="45"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Responsive Web Projects
+Projects focused on responsive layouts, accessibility, and interactive user experiences using HTML, CSS, and JavaScript.
+
+### 🐍 Python Applications
+Simple and practical Python programs built to improve problem-solving and programming logic.
+
+### 📚 Study & Productivity Tools
+Projects designed to help students stay organized, productive, and motivated.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌟 Fun Facts
+
+- 🎵 I enjoy music while coding
+- 💡 I like turning ideas into creative projects
+- 🚀 I believe consistency beats perfection
+- 😄 I enjoy making projects feel playful and engaging
+
+---
+
+## 🤝 Let's Connect
+
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+
+[![](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
+
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+---
+
+### ✨ Thanks for visiting my profile!
+
+Feel free to explore my repositories, leave a star ⭐ on projects you like, or connect with me.  
+Happy coding! 🚀
